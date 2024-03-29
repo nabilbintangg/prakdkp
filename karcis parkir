@@ -85,7 +85,7 @@ def display_ticket_list(vehicles):
         print()
 
 def main():
-    print("Selamat datang di program parkir\n")
+    print("Selamat datang di Program Parkir\n")
     vehicles = []
 
     while True:
